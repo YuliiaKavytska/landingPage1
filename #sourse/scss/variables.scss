@@ -1,0 +1,24 @@
+//Подключение шрифтов
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;500&display=swap");
+
+// font-family: 'Dosis', sans-serif; 300
+// font-family: 'Roboto', sans-serif; 400 500
+// font-family: 'Roboto Condensed', sans-serif; 400 700
+
+
+$fontfamily: "Roboto", Arial, sans-serif;
+
+
+//Переенные
+$minwidth: 320px; //Минимальная ширина главного контейнера
+$mw: 1320;
+// $md1: $mw + 12;
+// $md2: 992.98;
+// $md3: 767.98;
+// $md4: 479.98;
+
+
+$main-color: #2B4074;
+$dark-gray: #4A4A4A;
+$gray: #797979;
+$light-gray: #9B9B9B;
