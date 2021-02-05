@@ -57,13 +57,13 @@
 
 .info {
 	display: inline-block;
-	background: url("/img/icons/info\ button.png") center / 100% no-repeat;
+	background: url("../img/icons/info\ button.png") center / 100% no-repeat;
 	width: 30px;
 	height: 30px;
 	margin: 0px 10px 0px 0px;
 
 	&_white {
-		background-image: url('/img/icons/infowhite.png');
+		background-image: url('../img/icons/infowhite.png');
 	margin: 0;
 	}
 }

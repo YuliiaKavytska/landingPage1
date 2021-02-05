@@ -71,7 +71,7 @@
 		height: 50px;
 		font-size: 0;
 		z-index: 100;
-		background: url("../../img/icons/forward.svg") center / 10px no-repeat, $main-color;
+		background: url('../img/icons/forward.svg') center / 10px no-repeat, $main-color;
 		margin: -75px 0px 0px 0px;
 		@media (min-width: 1440px) {
 			width: 70px;
@@ -86,7 +86,7 @@
 		height: 50px;
 		font-size: 0;
 		z-index: 100;
-		background: url("../../img/icons/back.svg") center / 10px no-repeat, #ffffff;
+		background: url('../img/icons/back.svg') center / 10px no-repeat, #ffffff;
 		margin: -25px 0px 0px 0px;
 		@media (min-width: 1440px) {
 			width: 70px;
@@ -652,7 +652,7 @@
 
 	&__search {
 		display: inline-block;
-		background: url("/img/icons/search.png") center / 100% no-repeat;
+		background: url('../img/icons/search.png') center / 100% no-repeat;
 		width: 29px;
 		height: 29px;
 	}
@@ -1013,7 +1013,7 @@
 			margin: 0 auto;
 			width: 30px;
 			height: 30px;
-			background: url("/img/icons/quote.png") center / 100% no-repeat;
+			background: url('../img/icons/quote.png') center / 100% no-repeat;
 		}
 
 		@media (min-width: 640px) {
@@ -1226,7 +1226,7 @@
 			width: 22px;
 			height: 22px;
 			margin: 0 auto;
-			background: url("/img/icons/previous.svg") center / 100% no-repeat;
+			background: url('../img/icons/previous.svg') center / 100% no-repeat;
 		}
 		@media (min-width: 640px) {
 			text-align: right;
